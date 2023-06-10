@@ -1,1 +1,12 @@
 /* your code */
+thead{
+	background-color:rgb(18, 32, 163);
+	color:white;
+}
+.gray{
+	background-color:rgb(245, 245, 240);
+}
+table{
+	width:100%;
+	
+}
